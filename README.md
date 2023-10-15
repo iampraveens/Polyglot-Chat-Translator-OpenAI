@@ -6,6 +6,7 @@
 - [Getting Started](#getting-started)
 - [Run App](#run-ai)
 - [How to Use](#how-to-use)
+- [Dockerized Web App](#dockerized-web-app)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 
@@ -46,6 +47,25 @@ streamlit run app.py
 - Enter your English text in the provided input field.
 - Press `Enter` initiate the translation process.
 - Watch as the AI provides translations.
+
+## Dockerized Web App
+You can also deploy the Polyglot Chat Translator OpenAI web application using Docker. Build the Docker image and run the container:
+```bash
+docker build -t your_docker_username/rule-based-chatbot-app .
+```
+- To build a docker image.
+
+```bash
+docker run -d -p 8501:8501 your_docker_username/polyglot-chat-translator-app
+```
+- To run as a container.
+
+Access the web app at `http://localhost:8501` or `your_ip_address:8501` in your web browser.
+Else if you want to access my pre-built container, here is the code below to pull from docker hub(Public).
+
+```bash
+docker pull iampraveens/polyglot-chat-translator-app:latest
+```
 
 ## Acknowledgments
 
