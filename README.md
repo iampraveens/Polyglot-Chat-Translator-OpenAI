@@ -9,7 +9,7 @@
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 
-Introduction 
+## Introduction 
 Polyglot Chat Translator is a fun and interactive web application that breaks down language barriers using the power of AI. It's designed to translate English text into three unique and captivating language variants: **Hinglish**, **Telugish**, and **Thanglish**. Embrace linguistic creativity and explore the richness of language with this engaging project.
 
 Features
