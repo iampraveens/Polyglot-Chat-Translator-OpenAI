@@ -13,10 +13,10 @@
 Polyglot Chat Translator is a fun and interactive web application that breaks down language barriers using the power of AI. It's designed to translate English text into three unique and captivating language variants: **Hinglish**, **Telugish**, and **Thanglish**. Embrace linguistic creativity and explore the richness of language with this engaging project.
 
 ## Features
-🌎 **Multilingual Translation**: Seamlessly translate English text into Hinglish, Telugish, or Thanglish.
-🚀 **Real-Time Responses**: Enjoy instant translation results powered by OpenAI's GPT-3.
-🎨 **User-Friendly Interface**: Streamlit provides an intuitive and interactive platform for language exploration.
-🌟 **Language Variety**: Choose your preferred language variant and receive entertaining and creative translations.
+- 🌎 **Multilingual Translation**: Seamlessly translate English text into Hinglish, Telugish, or Thanglish.
+- 🚀 **Real-Time Responses**: Enjoy instant translation results powered by OpenAI's GPT-3.
+- 🎨 **User-Friendly Interface**: Streamlit provides an intuitive and interactive platform for language exploration.
+- 🌟 **Language Variety**: Choose your preferred language variant and receive entertaining and creative translations.
 
 ## Getting Started
 To get started with this project, you'll need Python and a few libraries installed. Follow these steps:
