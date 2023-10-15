@@ -8,7 +8,7 @@ Deployed the model on streamlit cloud(temp) [Streamlit App](https://polyglot-cha
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Run App](#run-ai)
+- [Run AI App](#run-ai)
 - [How to Use](#how-to-use)
 - [Dockerized Web App](#dockerized-web-app)
 - [Acknowledgments](#acknowledgments)
