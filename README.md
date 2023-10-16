@@ -1,4 +1,4 @@
-# Polyglot Chat Translator OpenAI <img src="https://cdn-icons-png.flaticon.com/512/888/888878.png" alt="Rule Based ChatBot For Retail" width="50" height="50">
+# Polyglot Chat Translator - OpenAI <img src="https://cdn-icons-png.flaticon.com/512/888/888878.png" alt="Rule Based ChatBot For Retail" width="50" height="50">
 
 ## Application
 Deployed the model on streamlit cloud(temp) [Streamlit App](https://polyglot-chat-translator-openai.streamlit.app/)
